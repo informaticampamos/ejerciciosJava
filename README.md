@@ -12,7 +12,7 @@ Este repositorio contiene una variedad de ejercicios de programación en Java, o
 
 ```bash
 git clone https://github.com/informaticampamos/ejerciciosJava.git
-
+```
 2. Explora los directorios para encontrar ejercicios agrupados por temas. Cada ejercicio puede tener su propio archivo .java con instrucciones detalladas en los comentarios.
 
 3. Lee las instrucciones de cada ejercicio y trata de resolverlo por tu cuenta.
